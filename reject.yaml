@@ -40,11 +40,10 @@ payload:
   - DOMAIN,cdn.kena-blok.xyz
   - DOMAIN-KEYWORD,cdnkomikindo.xyz
   - DOMAIN-SUFFIX,nhentai.net
-  
-  # Tokopedia
+# Tokopedia
   - DOMAIN,tokopedia.app.link
   - DOMAIN,tokopedia.link
-  # IP-CIRD
+# IP-CIRD
   - IP-CIDR,45.12.2.2/24 #kuronime
   - IP-CIDR,185.231.223.254/24 #kuronime
 # > Media.net
