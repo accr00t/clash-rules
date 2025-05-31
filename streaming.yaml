@@ -432,3 +432,24 @@ payload:
   - DST-PORT,8802
   - DST-PORT,3478
   - DST-PORT,3479
+# Global
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-SUFFIX,mozilla.com
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,susercontent.com
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,telephony.goog
+  - DOMAIN-SUFFIX,fbcdn.com
+  - DOMAIN-SUFFIX,kemenag.go.id
+  - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-SUFFIX,vivoglobal.com
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,shopee.co.id
+  - DOMAIN-SUFFIX,soso.com
+  - DOMAIN-SUFFIX,heytapdl.com
+  - DOMAIN-SUFFIX,ruijienetworks.com
