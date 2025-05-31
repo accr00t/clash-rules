@@ -453,3 +453,7 @@ payload:
   - DOMAIN-SUFFIX,soso.com
   - DOMAIN-SUFFIX,heytapdl.com
   - DOMAIN-SUFFIX,ruijienetworks.com
+# TerDirected
+  - DOMAIN-SUFFIX,ntp.org
+  - DOMAIN-SUFFIX,android.com
+  - DOMAIN-SUFFIX,aliyun.com
