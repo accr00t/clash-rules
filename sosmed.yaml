@@ -209,9 +209,3 @@ payload:
   - DOMAIN-SUFFIX,spotifyjobs.com
   - DOMAIN-KEYWORD,-spotify-com
   - DOMAIN-KEYWORD,spotify.com
-  # Deezer
-  - DOMAIN-SUFFIX,deezer.com
-  - DOMAIN-SUFFIX,dzcdn.net
-  # JOOX
-  - DOMAIN-SUFFIX,joox.com
-  - DOMAIN-KEYWORD,jooxweb-api
